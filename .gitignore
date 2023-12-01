@@ -1,3 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+log/
+
+engines/__pycache__/
+utils/__pycache__/
+
 *.txt~
 *~
+venv/
+.venv
+
 ignore

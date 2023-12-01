@@ -7,7 +7,7 @@ import socket
 import ssl
 import tldextract
 
-from webdriver_manager.driver import ChromeDriver
+from webdriver_manager.chrome import ChromeDriver
 from utils.customlogger import CustomLogger
 import time
 from datetime import datetime
