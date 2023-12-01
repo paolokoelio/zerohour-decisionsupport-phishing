@@ -3,9 +3,6 @@ __pycache__/
 *$py.class
 log/
 
-engines/__pycache__/
-utils/__pycache__/
-
 *.txt~
 *~
 venv/
